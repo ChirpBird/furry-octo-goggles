@@ -1,5 +1,0 @@
-print("Hullo!")
-mood = input("How are you today?")
-name = input("What is your name?")
-input("Based on your answers, I can conclude a few things about you. \nFirstly, your name is " + name + ". Also, I can conclude that you are feeling " + mood + " today.")
-input("\nShocking, huh? \nI, computer, am so smart! \nI can discover such great truths with so little information! \nHAHAHAHAHAHAHAHAHAHAHAHA")
